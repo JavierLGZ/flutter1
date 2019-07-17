@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+codigo de aprendizage de flutter y dart.
+basada en el curso de flutter del canal freecodecamp.org (https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+he impartido por la pagina flutter crash course  (https://fluttercrashcourse.com)
+codigo: https://github.com/seenickcode/tourismandco
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
